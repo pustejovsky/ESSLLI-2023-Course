@@ -15,3 +15,7 @@ Here one can find the slides for the [ESSLLI course](https://2023.esslli.eu/cour
 
  ## UMR Guidelines 
  - [UMR Guidelines](https://github.com/umr4nlp/umr-guidelines)
+
+## AMR Bibliographic Resources Page
+
+- [AMR Bibliography](https://nert-nlp.github.io/AMR-Bibliography/)
