@@ -1,6 +1,9 @@
 # ESSLLI-2023-Course
 UMR for NLP Systems. 2023 ESSLLI Course taught by Martha Palmer and James Pustejovsky
 
+## Uniform Meaning Representation (UMR)
+[UMR Homepage](https://umr4nlp.github.io/web/)
+
 ## Course Resources - Slides
 Here one can find the slides for the [ESSLLI course](https://2023.esslli.eu/courses-workshops-accepted/week-1-and-2-schedule/course-information-2.html#2-17) 
 
